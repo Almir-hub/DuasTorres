@@ -1,0 +1,30 @@
+# Linha de codigo.
+<Doctype>
+<html>
+    <head>
+    <meta charset=UTF-8">
+    <Title>Projeto 1</title>
+    </head>
+  <hr><hr><hr>
+    <body>
+    /*inicio da div primária*/
+    <div class="Primaria">
+     <div class="Paragrafo1">
+       <h1>Funcionalidades para Web</h1>
+        </div> 
+         <div class="Paragrafo2">
+          <a class="link" href=""></a>
+         <span>
+          <p>
+            Somos todos feitos de carne e pouco a pouco viramos cinzas! 
+          </p>
+         </spsan>
+         </div>
+        <div class="Paragrafo3">
+         <button class="button">Acessar</button>
+       </div>
+    </div>
+    /*fechamento da div primária*/
+    
+</body>
+</html>
